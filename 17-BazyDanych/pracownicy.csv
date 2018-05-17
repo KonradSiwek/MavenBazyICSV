@@ -1,0 +1,108 @@
+employee_id;first_name;last_name;job_title;salary;department_name;street_address;postal_code;city;country_name;phone_number;email
+100;Steven;King;President;24000.00;Executive;2004 Charade Rd;98199;Seattle;United States of America;515.123.4567;SKING
+101;Neena;Kochhar;Administration Vice President;17000.00;Executive;2004 Charade Rd;98199;Seattle;United States of America;515.123.4568;NKOCHHAR
+102;Lex;De Haan;Administration Vice President;17000.00;Executive;2004 Charade Rd;98199;Seattle;United States of America;515.123.4569;LDEHAAN
+103;Alexander;Hunold;Programmer;10000.00;IT;2014 Jabberwocky Rd;26192;Southlake;United States of America;590.423.4567;AHUNOLD
+104;Bruce;Ernst;Programmer;7000.00;IT;2014 Jabberwocky Rd;26192;Southlake;United States of America;590.423.4568;BERNST
+105;David;Austin;Programmer;5800.00;IT;2014 Jabberwocky Rd;26192;Southlake;United States of America;590.423.4569;DAUSTIN
+106;Valli;Pataballa;Programmer;5800.00;IT;2014 Jabberwocky Rd;26192;Southlake;United States of America;590.423.4560;VPATABAL
+107;Diana;Lorentz;Programmer;5200.00;IT;2014 Jabberwocky Rd;26192;Southlake;United States of America;590.423.5567;DLORENTZ
+108;Nancy;Greenberg;Finance Manager;12000.00;Finance;2004 Charade Rd;98199;Seattle;United States of America;515.124.4569;NGREENBE
+109;Daniel;Faviet;Accountant;9000.00;Finance;2004 Charade Rd;98199;Seattle;United States of America;515.124.4169;DFAVIET
+110;John;Chen;Accountant;8200.00;Finance;2004 Charade Rd;98199;Seattle;United States of America;515.124.4269;JCHEN
+111;Ismael;Sciarra;Accountant;7700.00;Finance;2004 Charade Rd;98199;Seattle;United States of America;515.124.4369;ISCIARRA
+112;Jose Manuel;Urman;Accountant;7800.00;Finance;2004 Charade Rd;98199;Seattle;United States of America;515.124.4469;JMURMAN
+113;Luis;Popp;Accountant;6900.00;Finance;2004 Charade Rd;98199;Seattle;United States of America;515.124.4567;LPOPP
+114;Den;Raphaely;Purchasing Manager;11000.00;Purchasing;2004 Charade Rd;98199;Seattle;United States of America;515.127.4561;DRAPHEAL
+115;Alexander;Khoo;Purchasing Clerk;3100.00;Purchasing;2004 Charade Rd;98199;Seattle;United States of America;515.127.4562;AKHOO
+116;Shelli;Baida;Purchasing Clerk;2900.00;Purchasing;2004 Charade Rd;98199;Seattle;United States of America;515.127.4563;SBAIDA
+117;Sigal;Tobias;Purchasing Clerk;2800.00;Purchasing;2004 Charade Rd;98199;Seattle;United States of America;515.127.4564;STOBIAS
+118;Guy;Himuro;Purchasing Clerk;2600.00;Purchasing;2004 Charade Rd;98199;Seattle;United States of America;515.127.4565;GHIMURO
+119;Karen;Colmenares;Purchasing Clerk;2500.00;Purchasing;2004 Charade Rd;98199;Seattle;United States of America;515.127.4566;KCOLMENA
+120;Matthew;Weiss;Stock Manager;8000.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.123.1234;MWEISS
+121;Adam;Fripp;Stock Manager;8200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.123.2234;AFRIPP
+122;Payam;Kaufling;Stock Manager;7900.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.123.3234;PKAUFLIN
+123;Shanta;Vollman;Stock Manager;6500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.123.4234;SVOLLMAN
+124;Kevin;Mourgos;Stock Manager;5800.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.123.5234;KMOURGOS
+125;Julia;Nayer;Stock Clerk;3200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.1214;JNAYER
+126;Irene;Mikkilineni;Stock Clerk;2700.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.1224;IMIKKILI
+127;James;Landry;Stock Clerk;2400.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.1334;JLANDRY
+128;Steven;Markle;Stock Clerk;2200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.1434;SMARKLE
+129;Laura;Bissot;Stock Clerk;3300.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.5234;LBISSOT
+130;Mozhe;Atkinson;Stock Clerk;2800.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.6234;MATKINSO
+131;James;Marlow;Stock Clerk;2500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.7234;JAMRLOW
+132;TJ;Olson;Stock Clerk;2100.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.124.8234;TJOLSON
+133;Jason;Mallin;Stock Clerk;3300.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.127.1934;JMALLIN
+134;Michael;Rogers;Stock Clerk;2900.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.127.1834;MROGERS
+135;Ki;Gee;Stock Clerk;2400.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.127.1734;KGEE
+136;Hazel;Philtanker;Stock Clerk;2200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.127.1634;HPHILTAN
+137;Renske;Ladwig;Stock Clerk;3600.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.1234;RLADWIG
+138;Stephen;Stiles;Stock Clerk;3200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.2034;SSTILES
+139;John;Seo;Stock Clerk;2700.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.2019;JSEO
+140;Joshua;Patel;Stock Clerk;2500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.1834;JPATEL
+141;Trenna;Rajs;Stock Clerk;3500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.8009;TRAJS
+142;Curtis;Davies;Stock Clerk;3100.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.2994;CDAVIES
+143;Randall;Matos;Stock Clerk;2600.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.2874;RMATOS
+144;Peter;Vargas;Stock Clerk;2500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.121.2004;PVARGAS
+145;John;Russell;Sales Manager;14000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.429268;JRUSSEL
+146;Karen;Partners;Sales Manager;13500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.467268;KPARTNER
+147;Alberto;Errazuriz;Sales Manager;12000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.429278;AERRAZUR
+148;Gerald;Cambrault;Sales Manager;11000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.619268;GCAMBRAU
+149;Eleni;Zlotkey;Sales Manager;10500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.429018;EZLOTKEY
+150;Peter;Tucker;Sales Representative;10000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.129268;PTUCKER
+151;David;Bernstein;Sales Representative;9500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.345268;DBERNSTE
+152;Peter;Hall;Sales Representative;9000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.478968;PHALL
+153;Christopher;Olsen;Sales Representative;8000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.498718;COLSEN
+154;Nanette;Cambrault;Sales Representative;7500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.987668;NCAMBRAU
+155;Oliver;Tuvault;Sales Representative;7000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1344.486508;OTUVAULT
+156;Janette;King;Sales Representative;10000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1345.429268;JKING
+157;Patrick;Sully;Sales Representative;9500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1345.929268;PSULLY
+158;Allan;McEwen;Sales Representative;9000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1345.829268;AMCEWEN
+159;Lindsey;Smith;Sales Representative;8000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1345.729268;LSMITH
+160;Louise;Doran;Sales Representative;7500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1345.629268;LDORAN
+161;Sarath;Sewall;Sales Representative;7000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1345.529268;SSEWALL
+162;Clara;Vishney;Sales Representative;10500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1346.129268;CVISHNEY
+163;Danielle;Greene;Sales Representative;9500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1346.229268;DGREENE
+164;Mattea;Marvins;Sales Representative;7200.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1346.329268;MMARVINS
+165;David;Lee;Sales Representative;6800.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1346.529268;DLEE
+166;Sundar;Ande;Sales Representative;6400.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1346.629268;SANDE
+167;Amit;Banda;Sales Representative;6200.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1346.729268;ABANDA
+168;Lisa;Ozer;Sales Representative;11500.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1343.929268;LOZER
+169;Harrison;Bloom;Sales Representative;10000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1343.829268;HBLOOM
+170;Tayler;Fox;Sales Representative;9600.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1343.729268;TFOX
+171;William;Smith;Sales Representative;7400.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1343.629268;WSMITH
+172;Elizabeth;Bates;Sales Representative;7300.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1343.529268;EBATES
+173;Sundita;Kumar;Sales Representative;6100.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1343.329268;SKUMAR
+174;Ellen;Abel;Sales Representative;11000.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1644.429267;EABEL
+175;Alyssa;Hutton;Sales Representative;8800.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1644.429266;AHUTTON
+176;Jonathon;Taylor;Sales Representative;8600.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1644.429265;JTAYLOR
+177;Jack;Livingston;Sales Representative;8400.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1644.429264;JLIVINGS
+178;Kimberely;Grant;Sales Representative;7000.00;;;;;;011.44.1644.429263;KGRANT
+179;Charles;Johnson;Sales Representative;6200.00;Sales;Magdalen Centre, The Oxford Science Park;OX9 9ZB;Oxford;United Kingdom;011.44.1644.429262;CJOHNSON
+180;Winston;Taylor;Shipping Clerk;3200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9876;WTAYLOR
+181;Jean;Fleaur;Shipping Clerk;3100.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9877;JFLEAUR
+182;Martha;Sullivan;Shipping Clerk;2500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9878;MSULLIVA
+183;Girard;Geoni;Shipping Clerk;2800.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9879;GGEONI
+184;Nandita;Sarchand;Shipping Clerk;4200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.509.1876;NSARCHAN
+185;Alexis;Bull;Shipping Clerk;4100.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.509.2876;ABULL
+186;Julia;Dellinger;Shipping Clerk;3400.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.509.3876;JDELLING
+187;Anthony;Cabrio;Shipping Clerk;3000.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.509.4876;ACABRIO
+188;Kelly;Chung;Shipping Clerk;3800.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.505.1876;KCHUNG
+189;Jennifer;Dilly;Shipping Clerk;3600.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.505.2876;JDILLY
+190;Timothy;Gates;Shipping Clerk;2900.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.505.3876;TGATES
+191;Randall;Perkins;Shipping Clerk;2500.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.505.4876;RPERKINS
+192;Sarah;Bell;Shipping Clerk;4000.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.501.1876;SBELL
+193;Britney;Everett;Shipping Clerk;3900.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.501.2876;BEVERETT
+194;Samuel;McCain;Shipping Clerk;3200.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.501.3876;SMCCAIN
+195;Vance;Jones;Shipping Clerk;2800.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.501.4876;VJONES
+196;Alana;Walsh;Shipping Clerk;3100.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9811;AWALSH
+197;Kevin;Feeney;Shipping Clerk;3000.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9822;KFEENEY
+198;Donald;OConnell;Shipping Clerk;2600.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9833;DOCONNEL
+199;Douglas;Grant;Shipping Clerk;2600.00;Shipping;2011 Interiors Blvd;99236;South San Francisco;United States of America;650.507.9844;DGRANT
+200;Jennifer;Whalen;Administration Assistant;4400.00;Administration;2004 Charade Rd;98199;Seattle;United States of America;515.123.4444;JWHALEN
+201;Michael;Hartstein;Marketing Manager;13000.00;Marketing;147 Spadina Ave;M5V 2L7;Toronto;Canada;515.123.5555;MHARTSTE
+202;Pat;Fay;Marketing Representative;6000.00;Marketing;147 Spadina Ave;M5V 2L7;Toronto;Canada;603.123.6666;PFAY
+203;Susan;Mavris;Human Resources Representative;6500.00;Human Resources;8204 Arthur St;;London;United Kingdom;515.123.7777;SMAVRIS
+204;Hermann;Baer;Public Relations Representative;10000.00;Public Relations;Schwanthalerstr. 7031;80925;Munich;Germany;515.123.8888;HBAER
+205;Shelley;Higgins;Accounting Manager;12000.00;Accounting;2004 Charade Rd;98199;Seattle;United States of America;515.123.8080;SHIGGINS
+206;William;Gietz;Public Accountant;8300.00;Accounting;2004 Charade Rd;98199;Seattle;United States of America;515.123.8181;WGIETZ
